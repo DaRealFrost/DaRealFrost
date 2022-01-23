@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaRealFrost
-- 👀 I’m interested in Game Development. Primarily on Roblox.
-- 🌱 I’m currently learning Lua.
+- 👀 I’m interested in Game Development.
+- 🌱 I’m best at Lua, LuaU, Python and learning JavaScript.
 - 💞️ I’m looking to collaborate on Stage Lighting.
 - 📫 How to reach me,
 Dicord: F̶̒͘ȓ̶̈ø̵͌͝s̵̎̑t̴̓́#3709
