@@ -17,9 +17,6 @@
   <a href="https://www.twitch.tv/frost_gaming_real">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge"/>
   </a> 
-  
- 
-
 </div>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=DaRealFrost&style=flat-square&color=blue" alt=""/>
