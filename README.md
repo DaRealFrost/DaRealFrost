@@ -106,13 +106,12 @@
 
 ## Currently Learning
 
-## Plan To Learn
-
 ### Languages
 ![Rust](https://img.shields.io/badge/rust-%230b7261.svg?style=flat&logo=rust&logoColor=%23FFFFFF)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=%23FFFFFF)
 
-### Other
+## Plan To Learn
 
+### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
