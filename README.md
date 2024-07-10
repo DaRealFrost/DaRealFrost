@@ -54,6 +54,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ### Databases
 
@@ -107,11 +108,10 @@
 ## Currently Learning
 
 ### Languages
-![Rust](https://img.shields.io/badge/rust-%230b7261.svg?style=flat&logo=rust&logoColor=%23FFFFFF)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=%23FFFFFF)
 
 ## Plan To Learn
 
-### Other
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+### Languages
+![Rust](https://img.shields.io/badge/rust-%230b7261.svg?style=flat&logo=rust&logoColor=%23FFFFFF)
